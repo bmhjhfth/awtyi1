@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'52a38986-c685-4635-93c9-25cf6da26276'}
+UUID=${UUID:-'75171f82-614c-469f-9930-ae561766ce6a'}
 
 # 其他Paas保活
 PAAS1_URL=https://pqmdsy-3000.csb.app/
